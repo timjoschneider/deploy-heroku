@@ -1,5 +1,6 @@
 {
   "name": "heroku",
+  "homepage": "https://github.com/timjoschneider/deploy-heroku.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
